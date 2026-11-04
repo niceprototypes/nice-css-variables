@@ -1,3 +1,12 @@
+**This repository is no longer maintained.** Development continues in the Nice UI monorepo.
+
+- New location: https://github.com/niceprototypes/nice-ux
+- New npm package: none (no direct counterpart)
+
+---
+
+# Legacy documentation
+
 # nice-css-variables
 
 A collection of CSS custom properties (variables) for consistent design tokens.
